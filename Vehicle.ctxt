@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\n\ Superclass\ that\ stores\ common\ attributes\ of\ Vehicles\n\ belonging\ to\ TaxiCo.\n\n\ @Swapnil\ Shah\n\ @version\ 2018.12.05\n
+comment1.params=base\ id
+comment1.target=Vehicle(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Vehicle\n\ @param\ base\ the\ base\ of\ the\ TaxiCo\n\ @param\ id\ the\ unique\ id\ of\ the\ vehicle.\n
+comment2.params=
+comment2.target=java.lang.String\ getIdent()
+comment2.text=\n\ Return\ the\ ID\ of\ the\ Vehicle.\n\ @return\ The\ ID\ of\ the\ Vehicle.\n
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment3.text=\n\ Return\ the\ destination\ of\ the\ Vehicle.\n\ @return\ The\ destination\ of\ the\ Vehicle.\n
+comment4.params=destination
+comment4.target=void\ setDestination(java.lang.String)
+comment4.text=\n\ Set\ the\ intented\ destination\ of\ the\ Vehicle.\n\ @param\ destination\ The\ intended\ destination.\n
+comment5.params=
+comment5.target=java.lang.String\ getLocation()
+comment5.text=\n\ Return\ the\ location\ of\ the\ Vehicle.\n\ @return\ The\ location\ of\ the\ Vehicle.\n
+comment6.params=location
+comment6.target=void\ setLocation(java.lang.String)
+comment6.text=\n\ Sets\ the\ current\ location\ of\ the\ vehicle\n\ @param\ location\ the\ current\ location\n
+comment7.params=
+comment7.target=java.lang.String\ getStatus()
+comment7.text=\n\ Return\ the\ status\ of\ this\ Vehicle.\n\ @return\ The\ status.\n
+numComments=8

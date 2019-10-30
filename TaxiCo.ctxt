@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TaxiCo
+comment0.text=\n\ A\ Taxi\ Company\ manages\ a\ fleet\ of\ taxis\ and\ shuttles.\n\ Taxis\ move\ between\ single\ destinations.\n\ Shuttles\ move\ around\ circular\ routes.\n\ \n\ @author\ David\ J.\ Barnes\ \n\ @version\ 2016.12.04\n
+comment1.params=name
+comment1.target=TaxiCo(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TaxiCo.\n\ @param\ name\ The\ name\ of\ this\ company.\n
+comment2.params=
+comment2.target=void\ addTaxi()
+comment2.text=\n\ Record\ that\ we\ have\ a\ new\ taxi.\n\ A\ unique\ ID\ will\ be\ allocated.\n
+comment3.params=
+comment3.target=void\ addShuttle()
+comment3.text=\n\ Record\ that\ we\ have\ a\ new\ shuttle.\n\ An\ arbitrary\ route\ is\ assigned\ to\ it.\n
+comment4.params=id
+comment4.target=Vehicle\ lookup(java.lang.String)
+comment4.text=\n\ Return\ the\ vehicle\ with\ the\ given\ id.\n\ @param\ id\ The\ id\ of\ the\ vehicle\ to\ be\ returned.\n\ @return\ The\ matching\ vehicle,\ or\ null\ if\ no\ match\ is\ found.\n
+comment5.params=
+comment5.target=void\ showStatus()
+comment5.text=\n\ Show\ the\ status\ of\ the\ fleet\ of\ taxis\ and\ shuttles.\ \n
+comment6.params=
+comment6.target=void\ fillDestinations()
+comment6.text=\n\ Put\ all\ the\ possible\ shuttle\ destinations\ in\ a\ list.\n
+numComments=7
